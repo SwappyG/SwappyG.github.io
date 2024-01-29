@@ -4,6 +4,7 @@ title: "Walking Through the Helesian Meadows"
 date: 2023-09-22
 author: "Swapnil Patel"
 categories: d&d_campaign_1
+ordering: 3
 background: |
   Outside the city walls of the Merchantile City of Heles lie gentle rolling plains dotted with flowers, shrubs, and small fauna. Merchants and visitors fill the paved streets carrying wagons of goods to sell or chests of gold from profits. The weather is temperate year-round thanks to the ocean nearby, and few dangerous creatures live close to the city walls. 
 thematicElements:

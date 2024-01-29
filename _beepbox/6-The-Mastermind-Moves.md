@@ -4,6 +4,7 @@ title: "The Mastermind Moves"
 date: 2023-07-01
 author: "Swapnil Patel"
 categories: d&d_campaign_1
+ordering: 6
 background:
 thematicElements:
 ---

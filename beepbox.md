@@ -5,8 +5,9 @@ permalink: /beepbox/
 main_nav: true
 ---
 
+{% assign sorted_beepbox_posts = site.beepbox | sort: "ordering" %}
 <ul class="posts-list">
-{% for post in site.beepbox %}
+{% for post in sorted_beepbox_posts %}
   <li>
     <strong>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>

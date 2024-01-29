@@ -4,6 +4,7 @@ title: "A Day in the Merchantile City"
 date: 2023-07-01
 author: "Swapnil Patel"
 categories: d&d_campaign_1
+ordering: 4
 background: |
   A vibrant port town city-state co-existing amidst the major countries of Dalmasca and Baron. Capitalizing on its strategic location, it often acts as a hub of commerce on the continent, and helps connect it to the merchants of Valence to the south. It's home to The Academy, a school of magic that rivals the Obelisk of the Macalanian Archipelago. Under the parliament, an extensive spy network coerces the world to secure Heles' future for generations to come. Outside the city borders lies calm forests and serene rolling hills, dotted with the occasional beasts and caverns. Roads to the city are oft filled with merchants setting out on expeditions or returning with their hauls.
 thematicElements:

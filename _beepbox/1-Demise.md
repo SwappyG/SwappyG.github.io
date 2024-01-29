@@ -4,6 +4,7 @@ title: "Demise"
 date: 2023-09-30
 author: "Swapnil Patel"
 categories: d&d_campaign_1
+ordering: 1
 background: |
   A stoic man of honour, tasked with carrying out the defence of Baron. His reputation precedes him, instilling fear in the hearts of all those who hear of his arrival. They say that all flora and fauna in his wake is left dead for generations. Those who know him personally hold deep admiration for his conviction, loyalty and leadership. He didn't choose his name, and it isn't one he's very fond of. But he knows it can be useful in battle and has gradually adopted it as his monicker.
 thematicElements:

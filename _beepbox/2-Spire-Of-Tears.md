@@ -4,6 +4,7 @@ title: "Spire of Tears"
 date: 2023-09-15
 author: "Swapnil Patel"
 categories: d&d_campaign_1
+ordering: 2
 background: |
   In the remote peaks of the Macalanian Skypeligo exists a temple carved purely from ice. Built on the underside of a frozen cliff, the temple provides relief from the heavy snow and cold outside. The crystal ice provides panoramic views of the valleys below and the snow covered peaks ahead. It houses untold secrets from the past, with much of the knowledge written in scripts lost to time. Monks today still continue to live and upkeep the temple, though their numbers continue to dwindle. 
 

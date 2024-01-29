@@ -4,6 +4,7 @@ title: "Unhinged Bard"
 date: 2023-06-27
 author: "Swapnil Patel"
 categories: d&d_campaign_1
+ordering: 5
 background: |
     This was originally conceived for one of the main characters, Raj. Raj is bombastic, good-hearted and, as the bard of the group, always has an instrument in hand. This would have been the soundtrack when Raj enters battle, however the conception ended up a little too unhinged for his personality. So instead, this has evolved into a hypothetical theme if Raj's morality became corrupted. 
 thematicElements:
