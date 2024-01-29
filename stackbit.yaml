@@ -240,10 +240,4 @@ models:
       - type: image
         name: cover
         label: Cover Image
-
-
-
-
-
-
-
+        
